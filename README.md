@@ -1,11 +1,12 @@
 <div align="center"> <h1> SUP! I'm Gabriel Gomes </h1> </div>
 
+<img src="https://i.imgur.com/cfEdh1B.gif" width="100" align="right"/> <br> <br>
 👋 My name is Gabriel Gomes, graduated in Systems Analysis and Development. 
 - ⚙ I have experience: PHP, Java, Maker Studio (Nocode Plataform), HTML, CSS, GitHub and GitLab.
 - 🌱 I’m currently learning C#/.Net, JavaScript and Flutter.
 - 📫 How to reach me: Gabrielgomesant@gmail.com.
  - 🎮 Fun fact: A monochamp Warwick Player in League of Legends.  
-<img src="https://i.imgur.com/cfEdh1B.gif" width="100" align="right"/> <br> <br>
+
 
 <!-- <a href=" LINK DO REPOSITORIO "> Take a Look in my repository's Site </a> --> 
 ##
